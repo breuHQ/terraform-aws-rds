@@ -1,6 +1,6 @@
 # Network module with VPC and subnets
 
-Opinionated terraform module to setup networking in AWS, containing a VPC, public and private networks with an internet gateway.
+Opinionated terraform module to setup AWS RDS in a given VPC and a private subnet.
 
 ## Intputs
 
